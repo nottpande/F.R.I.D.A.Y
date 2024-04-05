@@ -1,5 +1,5 @@
 # F.R.I.D.A.Y
-<p><strong>Overview:</strong> F.R.I.D.A.Y - the Futuristic Responsive Intelligent Digital Assistant Yottabyte, an innovative AI virtual assistant crafted using Python..</p>
+<p><strong>Overview:</strong> F.R.I.D.A.Y - Futuristic Responsive Intelligent Digital Assistant Yottabyte, an innovative AI virtual assistant crafted using Python..</p>
         <h2>Features</h2>
         <ol>
             <li><strong>Advanced Speech Recognition:</strong> F.R.I.D.A.Y seamlessly interprets your spoken commands with precision.</li>
