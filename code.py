@@ -10,10 +10,12 @@ import openai as ai
 import re
 
 #To use OpenAI's to fix the searching
-apikey_openai = "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"
+apikey_openai = "MY OPEN AI KEY"
+#Key hid for security reasons
 
 #To use Googles's Gemini API to make the searching possible
-genai.configure(api_key="AIzaSyBI4ysCt3k3QOM9UQX1MWtJOULGYyj85v8")
+genai.configure(api_key="API KEY")
+#Key hid for security reasons
 model = genai.GenerativeModel('gemini-pro')
 
 #We are using SAPI5, which stands for  Speech Application Programming Interface Version 5.
